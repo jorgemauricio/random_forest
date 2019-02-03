@@ -1,0 +1,21 @@
+Variable        Coeficiente
+MCARI_OSAVI    -9.288406e-01
+CI_green        2.563024e-02
+NDRE           -2.152780e+01
+NDVI           -9.510600e+00
+MCARI_OSAVI_RE  3.820994e+00
+MTCI           -7.821014e-01
+TCARI_OSAVI    -1.244719e-01
+CCCI_simpl      2.564094e+00
+GNDVI           8.137738e+00
+CCCI           -4.334591e+00
+RVI             3.569053e-02
+CIred_edge      4.507868e+00
+TCARI_OSAVI_RE -3.112757e-01
+SPAD           -9.179605e-03
+NO3-NH4         3.889301e-03
+M.O.            3.799815e-02
+%Humedad       -3.519414e-03
+% ARENA        -1.020243e+13
+% ARCILLA      -1.020243e+13
+% LIMO         -1.020243e+13
